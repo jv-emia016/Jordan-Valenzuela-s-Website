@@ -320,7 +320,7 @@ main {
   }
 }
 
-@media (min-width: 400px) and (max-width: 576px) {
+@media (min-width: 400px) and (max-width: 767px) {
   .home-image img {
     height: 280px;
     width: 280px;

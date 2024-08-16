@@ -322,9 +322,8 @@ main {
 
 @media (min-width: 400px) and (max-width: 576px) {
   .home-image img {
-    height: 290px;
-    width: 290px;
-    margin-top: 20px;
+    height: 280px;
+    width: 280px;
   }
 }
 
